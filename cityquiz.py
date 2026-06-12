@@ -238,4 +238,3 @@ def summary():
 submit_button=Button(window, text="Potvrdit", font=("Arial", 20), command=personal_info)
 submit_button.pack(pady=10)
 window.mainloop()
-
